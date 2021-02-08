@@ -1,0 +1,15 @@
+.header{
+    border: solid;
+}
+.item{
+    border: dotted;
+}
+.grid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: double;
+}
+body{
+    background-color:#
+}
